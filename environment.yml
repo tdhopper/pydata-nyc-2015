@@ -1,0 +1,4 @@
+name: understanding-lda
+dependencies:
+  - python>=3.4
+  - anaconda
