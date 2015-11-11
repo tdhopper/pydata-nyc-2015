@@ -2,6 +2,7 @@ all:
 	jupyter notebook
 
 make install:
+	git submodule init
 	git submodule update
 	conda update conda
 	conda env create
