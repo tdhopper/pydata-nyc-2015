@@ -16,7 +16,7 @@ The talk will progress as follows:
 * Simulation of mixture models
 * Introduction to grouped data
 * Simulation of latent Dirichlet allocation
-* Fitting and visualizing LDA with Python
+* ~~Fitting and visualizing LDA with Python~~
 
 ## Setup Conda Environment and Launch Notebook
 
