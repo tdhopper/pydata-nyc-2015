@@ -1,9 +1,10 @@
 all:
-	ipython notebook
+	jupyter notebook
 
 make install:
+	git submodule update
 	conda update conda
 	conda env create
 
 slides:
-	ipython nbconvert topic-models-with-simulation.ipynb --to slides --post serve
+	jupyter nbconvert topic-models-with-simulation.ipynb --to slides --post serve
