@@ -51,7 +51,7 @@ Latent Dirichlet Allocation and related topic models are often presented in the 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_R66X_udxZQ
 " target="_blank"><img src="http://img.youtube.com/vi/_R66X_udxZQ/0.jpg" 
-alt="Timothy Hopper: Understanding Probabilistic Topic Models By Simulation" width="240" height="180" border="10" /></a>
+alt="Timothy Hopper: Understanding Probabilistic Topic Models By Simulation" width="480" height="360" border="10" /></a>
 
 ### Abstract
 
