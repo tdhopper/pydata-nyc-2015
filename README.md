@@ -47,6 +47,12 @@ By Tim Hopper:
 
 Latent Dirichlet Allocation and related topic models are often presented in the form of complicated equations and confusing diagrams. I will present LDA as a generative model through probabilistic simulation in simple Python. Simulation will help data scientists to understand the model assumptions and limitations and more effectively use black box LDA implementations.
 
+### Presentation Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_R66X_udxZQ
+" target="_blank"><img src="http://img.youtube.com/vi/_R66X_udxZQ/0.jpg" 
+alt="Timothy Hopper: Understanding Probabilistic Topic Models By Simulation" width="240" height="180" border="10" /></a>
+
 ### Abstract
 
 Those without training in probabilistic graphical models and measure theory, data scientist may have a hard time understanding Latent Dirichlet Allocation and other probabilistic topic models. However, because LDA is a generative model, we can write Python code to generated data based on the model assumptions.
